@@ -1,0 +1,20 @@
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+.gradle/
+.idea/
